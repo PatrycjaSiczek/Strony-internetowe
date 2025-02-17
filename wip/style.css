@@ -1,0 +1,168 @@
+body {
+  
+  text-align: center;
+margin:0;
+background-color: #F6FEFE ;
+}
+
+header{
+font-size:30px;
+padding:2px;
+background-color:#CCDDDD;
+font-color:#C47084 ;
+}
+
+h1
+{
+text-align:center;
+font-colour:black  ;
+letter-spacing:10px;
+font-family: 'Caveat', cursive;
+}
+
+i
+{
+border-bottom:2px solid black ;
+font-colour:#C47084 ;
+}
+	
+
+nav{
+float: left;
+text-align: center;
+margin-left: auto;
+margin-right:auto;
+background-color:#A4CACB ;
+width: 100%;
+height:40px;
+border-top:1px solid #313131;
+border-bottom:1px solid #313131;
+color: black;
+display: inline-block;
+text-decoration:none;
+}
+
+ol
+{
+text-decoration: none;
+padding: 0;
+margin: 0;
+list-style-type: none;
+color: black;
+font-size: 20px;
+height: 40px;
+line-height: 200%;
+display: inline-block;
+margin-left: auto;
+margin-right:auto;
+}
+
+ol a
+{
+color: #2d2d2d;
+display: block;
+}
+ol > li
+{
+float: left;
+text-align: center;
+min-width: 200px;
+height:40px;
+margin-left: auto;
+margin-right:auto;
+border-right:  2px dotted #727272;
+text-decoration:none;
+
+}
+
+
+ol > li:first-child
+{
+border-left:  2px dotted #727272;
+}
+
+
+a:hover
+{
+background-color: #447181;
+font-color: white;
+}
+
+#tresc
+{
+background-color:#CCDDDD ;
+width:65%;
+border:  1px solid #727272;
+margin-left:auto;
+margin-top:150px;
+margin-right:auto;
+padding:70px 50px 50px 50px; 
+}
+.my{
+margin-left: 80px;
+margin-right:20px;
+float: left;
+}
+.img{
+float:center;
+padding:10px;
+margin: 0px 10px 10px 0;
+border:2px solid #B0B2B3;
+}
+
+#e2
+{
+height: 80%;
+width: 80%;
+float:center;
+padding:10px;
+margin: 0px 10px 10px 0;
+border:2px solid #B0B2B3;
+}
+
+#m
+{
+height: 80%;
+width: 80%;
+float:center;
+padding:10px;
+margin: 0px 10px 10px 0;
+border:2px solid #B0B2B3;
+}
+
+.l{
+float:left;
+margin-left:5px;
+align: center;
+height: 180px;
+width: 250px;
+}
+
+h3{
+clear:both;
+margin-top:20px;
+}
+
+h2
+{
+font-size:27px;
+border-bottom:  3px dotted #727272;
+}
+
+p
+{
+text-align:jusify;
+font-size: 20px;
+font-family: Josefin Sans;
+line-height: 30px;
+}
+
+#stypka{
+background-color:#128B8F ;
+height: 40px;
+font-size: 20px;
+margin-top:100px;
+margin-bottom:0;
+padding:5px;
+
+}

@@ -1,0 +1,222 @@
+body
+{
+background-color:#c0ab96;
+}
+
+#calosc
+{
+width: 1000px;
+margin-right:auto;
+margin-left: auto;
+}
+
+#logo
+{
+text-align: center;
+colspan:"3";
+background-color:#FFEBCD;
+align:center;
+padding:10px;
+}
+
+.tytul
+{
+text-align: center;
+font-size: 40px;
+
+}
+
+.okladka
+{
+border-style: solid;
+width: 700px;
+height: 250px;
+colspan:"3";
+background-color:#fff0f8;
+align:center;
+border: 5px double #c0ab96;
+}
+
+
+#nav
+{
+float:left;
+width:120px;
+height:800px;
+background-color:#FFE4E1;
+border: 2px double #cc9999;
+}
+.Strona
+{
+width: 100px;
+height: 20px;
+padding:10px;
+}
+.Strona:hover
+{
+background-color:#bb8888;
+}
+
+.oczyszczanie
+{
+width: 100px;
+height: 20px;
+padding:10px;
+
+}
+.oczyszczanie:hover
+{
+background-color:#bb8888;
+}
+
+.demakijaz
+{
+width: 100px;
+height: 20px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.demakijaz:hover
+{
+background-color:#bb8888;
+}
+
+.tonik
+{
+width: 100px;
+height: 20px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.tonik:hover
+{
+background-color:#bb8888;
+}
+
+.serum
+{
+width: 100px;
+height: 20px;
+padding:10px;
+
+}
+.serum:hover
+{
+background-color:#bb8888;
+}
+
+.szczoteczki
+{
+width: 100px;
+height: 30px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.szczoteczki:hover
+{
+background-color:#bb8888;
+}
+
+.kremy
+{
+width: 100px;
+height: 30px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.kremy:hover
+{
+background-color:#bb8888;
+}
+
+.Spf
+{
+width: 100px;
+height: 20px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.Spf:hover
+{
+background-color:#bb8888;
+}
+
+.maseczki
+{
+width: 100px;
+height: 20px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.maseczki:hover
+{
+background-color:#bb8888;
+}
+
+.peeling
+{
+width: 100px;
+height: 20px;
+padding:10px;
+border-bottom: dashed #c0ab96;
+}
+.peeling:hover
+{
+background-color:#bb8888;
+}
+
+.masazer
+{
+width:100px;
+height:300px;
+border: 2px solid #c0ab96;
+}
+.masazer:hover
+{
+background-color:#bb8888;
+}
+
+
+#content
+{
+margin: 5px;
+float:left;
+padding:20px;
+width:610px;
+background-color:#FFEBCD;
+}
+.zdjecie1
+{
+
+width: 250px;
+height: 250px;  
+vertical-align:middle;
+}
+
+
+#ad
+{
+float:left;
+width:160px;
+min-height:620px;
+padding:10px;
+}
+
+
+.reklama
+{
+background-color: #fff0f8;
+width:160px;
+height:600px;
+border: 2px double #cc9999;
+}
+
+
+#footer
+{
+clear: both;
+text-align:center;
+padding:10px;
+background:#cc9999;
+border: 5px solid #BC8F8F;
+}

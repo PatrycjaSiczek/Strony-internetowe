@@ -1,0 +1,169 @@
+body
+{
+background : white;
+margin: 0;
+}
+
+}
+#container
+{
+ width:100%;
+ margin-left:auto;
+ margin-right:auto;
+ height:1000px;
+
+}
+
+.menu
+{
+
+text-decoration:none;
+color:black;
+}
+
+.glowna
+{
+ background:#D17561;
+ font-size:30px;
+ width:25%;
+ border: 1px solid black;
+ text-align:center;
+ color:black;
+ height:10px;
+ 
+}
+
+h4
+{
+color:black;
+font-size:15px;
+}
+
+.glowna:hover
+{
+ background:#D48372;
+ color:black;
+}
+
+#logo
+{
+ background:#CA744D ;
+ margin:20px;
+ font-size:75px;
+ letter-spacing:3px;
+ text-align:center;
+ padding:25px;
+}
+
+.zdjecie1
+{
+ float:left;
+ //padding:10px;
+ width: 500px;
+ height:300px;
+ margin: 0px 10px 10px 0;
+ border:2px solid #cc9999;
+}
+
+.zdjecie2
+{
+ float:right;
+ //padding:10px;
+ width: 500px;
+ margin: 0px 10px 10px 0;
+ border:2px solid #cc9999;
+}
+
+h3
+{
+text-align:center;
+font-size:25px;
+}
+
+{
+//style-type:none;
+ //margin-left: auto;
+ //margin-right:auto;
+ //text-align: justify;
+//text-align:superscript;
+ //height:1000px;
+//margin-top:30px;
+//margin-bottom: 20px;
+//padding: 0 20px;
+}
+
+#content
+{
+height:1000px;
+padding-left:100px;
+padding-right:100px;
+//margin-top:0;
+font-family: 'Josefin Sans', sans-serif;
+font-size:25px;
+background:#FCF8F5;
+text-align: justify;
+line-height: 25px;
+//padding: 5px 0 5px 0;
+}
+
+h1
+{
+margin: 10px 20% 20px; 10%;
+padding-bottom:15px;
+border-bottom:2px solid #c0ab96;
+text-align:center;
+}
+
+h2
+{
+text-align:center;
+font-size:25px;
+}
+
+h5
+{
+margin: 10px 20% 20px; 10%;
+padding-bottom:15px;
+border-bottom:2px solid #c0ab96;
+text-align:center;
+font-size:25px;
+
+}
+#footer
+{
+background:brown;
+width:100%;
+text-align:center;
+padding:5px;
+ margin-top:10px;
+ font-size:20px;
+ letter-spacing:3px;
+
+}
+
+.tabela
+{
+border:2px solid #cc9999;
+width:100%;
+text-align:center;
+}
+
+#rozmiar
+{
+text-align:center;
+}
+a:link 
+{
+ color:#8531E9;
+}
+
+a:visited
+{
+color:blue;
+}
+
+a:hover
+{
+color: purple;
+}
+

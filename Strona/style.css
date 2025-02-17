@@ -1,0 +1,78 @@
+h1
+{
+color: lawngreen;
+}
+.b
+{
+font-weight: 700;
+}
+
+.a
+{
+font-style: italic;
+color:#5c4033;
+}
+ol
+{
+font-style: italic;
+padding: 20px;
+margin: 20px;
+}
+
+ul
+{
+font-style: italic;
+margin: 10px;
+padding: 20px;
+}
+
+i
+{
+font-weight: 700;
+color: lawngreen;
+}
+.obraz
+{
+border-width: 5px;
+border-style: solid;
+border-color: green;
+border-radius: 25px;
+width: 400px;
+height: 300px;
+}
+z
+{
+font-style: italic;
+font-weight: 700;
+color: darkgreen;
+text-decoration: underline;
+}
+l
+{
+text-decoration: underline;
+color: darkgreen;
+font-style: italic;
+font-weight: 700;
+}
+.obrazek
+{
+border-width: 5px;
+border-style: solid;
+border-color: green;
+border-radius: 25px;
+text-align:center;
+width: 400px;
+height: 300px;
+background-color: black;
+display: inline-block;
+}
+.o
+{
+font-size: 200%
+text-align: center;
+}
+.srodek
+{
+font-size: 200%
+text-align: center;
+}
